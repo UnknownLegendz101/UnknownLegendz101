@@ -19,7 +19,7 @@ I'm currently studying Cyber And Netowrk Security Course in Institute Of Technic
 <hr>
   🎓 I graduated from Holy Innocent High School
   <br>
-  💻 I love bowling and learning new skills 
+  🎳 I love bowling and learning new skills 
   <br>
   📚 I’m currently learning how to become better with python 
   <br>
@@ -29,3 +29,14 @@ I'm currently studying Cyber And Netowrk Security Course in Institute Of Technic
 <p align="center">
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
+</p>
+<p align="center">
+  There is more to come! 
+  <hr>
+</p>
+  <p align="center"> 
+  Thank you for taking your time to read all these, i appreciate it 👍
+ <p align="center">
+   <img width="300" height="300" alt="ThanksThanksAlotGIF" src="https://github.com/user-attachments/assets/b62a4b52-e1ff-4460-8ab7-dec8c006cad5" />
+
+  
